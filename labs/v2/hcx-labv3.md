@@ -60,6 +60,13 @@ Click on the link below to walk through on how to install and configure HCX with
 
 Now that you are familar with installing and configuring HCX.  Let's do an actual vMotion (live) migration of a virtual machine to VMware Cloud on AWS.
 
+{% capture notice-1 %}
+Note: Be aware that the following exercise will use a pre-configured on-premise and VMware Cloud on AWS environment to demonstrate HCX migrations, the migrated VMs will not appear in your own Student SDDC you have been using.
+{% endcapture %}
+<div class="notice--warning">
+  {{ notice-1 | markdownify }}
+</div>
+
 ### Log into On-Prem vCenter
 
 We have provided an on-prem vCenter with virtual machines to migrate.  Based on your student ## please select the appropriate VM to migrate.
