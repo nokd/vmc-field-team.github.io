@@ -245,8 +245,8 @@ Postman is very easy to install, so let's get started.
 
     ![Postman7](https://s3-us-west-2.amazonaws.com/vmc-workshops-images/APIs/Postman7.jpg)
 
-8.  *This step intentionally left blank*
-9.  *This step intentionally left blank*
+8. *This step intentionally left blank*
+9. *This step intentionally left blank*
 10. Click on the download menu
 11. Click on *Open*
 
