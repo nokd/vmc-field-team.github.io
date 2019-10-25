@@ -315,6 +315,13 @@ Please note you might get either of the 2 sign on screens above. If you get the 
 
 1. In the left pane click on **Databases**
 2. Click on the RDS instance that corresponds to designated number
+   
+{% capture notice-2 %}
+**Note: Be aware that you may need to look on Page 2 of this view to find your DB**
+{% endcapture %}
+<div class="notice--info">
+  {{ notice-2 | markdownify }}
+</div>
 
 ### Navigate to Security Groups
 
